@@ -1,5 +1,4 @@
-# Vedaz AI Engineer Take-Home — Yuga K S
-
+# LLM Safety & Chat Pipeline
 This repo contains my submission for both stages of the Vedaz AI Astrologers take-home task.
 
 ---
